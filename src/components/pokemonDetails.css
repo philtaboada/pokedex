@@ -1,0 +1,159 @@
+.bgcolor-normal,
+.bgcbackgroundnknown {
+
+    background: #bababa
+}
+
+.bgcolor-fighting {
+    background: #96402A;
+}
+
+.bgcolor-flying {
+    background: #BC6B7C;
+}
+
+.bgcolor-poison {
+    background: #A564E3;
+}
+
+.bgcolor-ground {
+    background: #895C1A;
+}
+
+.bgcolor-rock {
+    background: #8D8D94;
+}
+
+.bgcolor-bug {
+    background: #3BB039;
+}
+
+.bgcolor-ghost {
+    background: #454AA8;
+}
+
+.bgcolor-steel {
+    background: #728881;
+}
+
+.bgcolor-fire {
+    background: #E35825;
+}
+
+.bgcolor-water {
+    background: #1479FB;
+}
+
+.bgcolor-grass {
+    background: #7EC6C5;
+}
+
+.bgcolor-electric {
+    background: rgba(252, 224, 70, 1);
+}
+
+.bgcolor-phychic {
+    background: #C23867;
+}
+
+.bgcolor-ice {
+    background: #64CBF5;
+}
+
+.bgcolor-dragon {
+    background: #56A4AE;
+}
+
+.bgcolor-dark,
+.bgcbackgroundhadow {
+
+    background: #0D1211;
+}
+
+.bgcolor-fairy {
+    background: rgba(255, 126, 245, 1);
+}
+
+
+.card-pokedex-pokemondetails {
+    margin: 10%;
+    box-shadow: 0px 3px 6px 0px #00000026;
+    position: relative;
+}
+
+.color-pokemondetails-card {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-pokedex-pokemondetails {
+    position: absolute;
+    top: -85px;
+    width: 27%;
+}
+
+.title-container-pokemondetails {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box-id {
+    margin-top: 25px;
+    border: solid 1px #D3D3D3;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pokemon-peso {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pokemon-peso-in {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+
+
+.p-pokemon-in {
+    padding: 5px;
+
+}
+
+.flex-directions-pokemon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-pokemon-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px black;
+    margin: 15px;
+    height: 30px;
+}
+
+.color-text-white {
+    color: white;
+    border: none;
+}
+
+.decoration-stats {
+    height: 80px;
+    width: 90%;
+    text-align: center;
+}
+
+.decoration-stats::-moz-progress-bar {
+    background: rgb(255, 94, 0);
+}

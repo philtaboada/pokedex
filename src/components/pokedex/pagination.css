@@ -1,0 +1,26 @@
+.pagination-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul-pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.unit-page {
+    height: 15px;
+    cursor: pointer;
+    list-style: none;
+    padding: 15px;
+    background: #dd1a1a;
+    margin: 0px;
+    margin-left: 5px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
